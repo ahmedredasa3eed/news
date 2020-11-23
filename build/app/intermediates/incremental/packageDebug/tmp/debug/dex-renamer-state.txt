@@ -1,0 +1,4 @@
+#Fri Nov 20 18:16:54 AST 2020
+base.0=/Users/ahmedreda/Documents/news_app/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
