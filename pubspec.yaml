@@ -30,10 +30,7 @@ dependencies:
   cupertino_icons: ^1.0.0
   page_view_indicator: ^2.0.4
   shared_preferences: ^0.5.12+4
-  google_maps_flutter: ^1.0.6
-  geolocator: ^6.1.7
-  geocoding: ^1.0.5
-  flutter_polyline_points: ^0.2.4
+  http: ^0.12.2
 
 dev_dependencies:
   flutter_test:

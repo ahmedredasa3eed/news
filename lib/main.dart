@@ -1,3 +1,5 @@
+import 'dart:collection';
+
 import 'package:flutter/material.dart';
 import 'package:news_app/screens/OnBoarding.dart';
 import 'package:news_app/screens/home_screen.dart';
@@ -35,7 +37,7 @@ class NewsApp extends StatelessWidget {
       theme: AppTheme.appTheme,
       debugShowCheckedModeBanner: false,
       //home: this._screen,
-      home: ChatUsers(),
+      home: OnBoarding(),
     );
   }
 }

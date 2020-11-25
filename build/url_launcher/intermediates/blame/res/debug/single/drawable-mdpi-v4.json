@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/ahmedreda/Documents/news_app/build/url_launcher/intermediates/res/merged/debug/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/3785b3d29ccfef3f03369d637237120e/core-1.1.0/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/ahmedreda/Documents/news_app/build/url_launcher/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/3785b3d29ccfef3f03369d637237120e/core-1.1.0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/ahmedreda/Documents/news_app/build/url_launcher/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/3785b3d29ccfef3f03369d637237120e/core-1.1.0/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/ahmedreda/Documents/news_app/build/url_launcher/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/3785b3d29ccfef3f03369d637237120e/core-1.1.0/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/ahmedreda/Documents/news_app/build/url_launcher/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/3785b3d29ccfef3f03369d637237120e/core-1.1.0/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    }
+]

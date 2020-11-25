@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/ahmedreda/Documents/news_app/build/url_launcher/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/3785b3d29ccfef3f03369d637237120e/core-1.1.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/ahmedreda/Documents/news_app/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/3785b3d29ccfef3f03369d637237120e/core-1.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/ahmedreda/Documents/news_app/build/url_launcher/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/3785b3d29ccfef3f03369d637237120e/core-1.1.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ahmedreda/Documents/news_app/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/3785b3d29ccfef3f03369d637237120e/core-1.1.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/ahmedreda/Documents/news_app/build/url_launcher/intermediates/res/merged/debug/layout/custom_dialog.xml",
+        "source": "/Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/3785b3d29ccfef3f03369d637237120e/core-1.1.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/ahmedreda/Documents/news_app/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/3785b3d29ccfef3f03369d637237120e/core-1.1.0/res/layout/notification_template_part_chronometer.xml"
+    }
+]
